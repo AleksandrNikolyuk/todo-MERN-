@@ -1,0 +1,19 @@
+{
+    "title": "TODO",
+    "items": "Items",
+    "search": "Find user with Redux+RxJS",
+    "searchApi": "Find your pokemon (exp: pikachu)",
+    "comments": "Comments",
+    "user": "User",
+    "auth": "Authorization",
+    "email": "Email",
+    "password": "Password",
+    "buttons": {
+      "languages": "Language",
+      "addNew": "Add",
+      "delete": "Delete",
+      "enter": "Sing In",
+      "regist": "Sing Up",
+      "logout": "Sing Out"
+    }
+}
